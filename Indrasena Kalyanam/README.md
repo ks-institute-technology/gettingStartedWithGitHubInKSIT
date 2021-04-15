@@ -1,7 +1,8 @@
 
-#Indrasena Kalyanam
+Indrasena Kalyanam
 
-**Skill Set: **
+Skill Set: 
+
 1. Java
 2. J2EE
 3. Python
